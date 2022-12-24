@@ -7,4 +7,5 @@
 name = "site"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://scianio.notion.site/Cloud-00164dfce9a148e2bde679a18cc303c8"
+theme = "dark"
